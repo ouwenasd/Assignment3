@@ -1,0 +1,14 @@
+H1,H2,H3,H4,H5			{ text-align: center; font-size: 180% }
+#header					{ height: 200px; background-image: url('pic_2/header.jpg');}
+#menu 					{ background-image: url('pic_2/menu.jpeg'); height: 50px; width: 100%; text-align: center;}
+#home						{ margin: 1%;}
+#wrap 					{ width: 100%; height: 100%;background-image: url('pic_2/background.jpeg');}
+#content				{ width: 75%; height: 100%;float:left; font-style: italic;}
+#content_introduce	{ background-image: url('pic_2/me.jpg'); width: 335px; height: 251px; float: left;}
+#content_history	{ background-image: url('pic_2/history.jpeg'); width: 335px; height: 251px; float: right; }
+#content_offer		{ background-image: url('pic_2/offer.jpeg'); width: 335px; height: 251px; float: left; }
+#sidebar				{ background-image: url('pic_2/sidebar.jpg');margin-left: 75%; height: 100%; bottom: 0; border-style:solid;}
+a:link 					{ color:black;}    
+a:visited 				{ color:black;} 
+a:hover 				{ color:#FF00FF;}   
+a:active 				{ color:#0000FF;} 

@@ -1,0 +1,12 @@
+For part 1, I choose three books:
+http://www.gutenberg.org/files/76/76-h/76-h.htm
+http://www.gutenberg.org/files/135/135-h/135-h.htm
+http://www.gutenberg.org/files/844/844-h/844-h.htm
+
+Modifications:
+1. I strip out all style from these htmls, and put them into css file.
+It includes all things in style tags, and something in img tags, like
+width.
+2. I change the background of htmls.
+3. I change the font-style of htmls into serif.
+4. I add frmae to all images.

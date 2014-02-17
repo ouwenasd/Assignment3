@@ -1,0 +1,41 @@
+<html>
+<title>Myself</title>
+<style type="text/css"> 
+	@import url("part2_1.css");
+</style>
+<body>
+	<div id="header">
+		<h1>Ouwen Zha's Homepage</h1>
+	</div>
+	<div id="menu">
+		<div id="home">
+			<a href = "part2_good.html">
+				Home
+			</a>
+		</div>
+	</div>
+	<div id="wrap">
+		<div id="content">
+			<div id="content_introduce"></div>
+			<h2>Introduce</h2>
+			My name is Ouwen Zha. I am Chinese.
+			<br clear="all" />
+			<div id="content_history"></div>
+			<h3>History</h3>
+			University of Alberta<br>
+			Computing Science Major Business Minor
+			<br clear="all" />
+			<div id="content_offer"></div>
+			<h4>What I can offer</h4>
+			Language: c++, python, java, php<br>
+			3D Animation: 3D MAX, Blender
+		</div>
+		<div id="sidebar">
+			<h5>Important</h5>
+			This is Assignment 3 of CS410
+		</div>
+	</div>
+</body>
+</html> 
+
+

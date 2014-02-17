@@ -1,0 +1,42 @@
+<html>
+<title>Myself</title>
+<style type="text/css"> 
+	@import url("part2_1.css");
+</style>
+<body>
+	<img class = "header" src="header.jpg" alt = "This is header" >
+	<h1>
+		Ouwen Zha Homepage
+	</h1>
+	<div class='content'>
+   		<div class='left'>
+			<div class = "introduce">
+				<img src="psb1.jpeg" align="left" alt = "This is me">
+				<h2>Myself</h2>
+				Ouwen Zha</br>
+				University of Alberta, Computing Science Student
+			</div>
+			<br clear="all" />
+			<div class = "history">
+				<img src="history.jpg" align="right" alt = "This is history">
+				<h3>History</h3>
+				I am University of Alberta computring science student. This is my CS410 Assignment 3.
+			</div>
+			<br clear="all" />
+			<div class = "offer">
+				<h4>What I can offer</h3>
+				Language: c++, python, java<br>
+				3D Animation: 3D MAX, Blender
+			</div>
+		</div>
+   		<div class = "sidebar">
+			<div class = "sidebar_text">
+				<div class="sidebar_bg"></div>
+				Important<br>
+				This is Assignment 3
+				of CS410
+			</div>
+		</div>
+	</div>
+</body>
+</html>

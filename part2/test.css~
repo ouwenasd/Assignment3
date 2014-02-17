@@ -1,0 +1,10 @@
+H1,H2,H3,H4,H5			{ text-align: center; font-size: 180% }
+#header					{ height: 200px; background-image: url('header.jpg');}
+#menu 					{ background-image: url('menu.jpeg'); height: 50px; width: 100%; text-align: center;}
+#home						{ margin: 1%;}
+#wrap 					{ width: 100%; height: 100%}
+#content				{ width: 75%; height: 100%;float:left; font-style: serif;}
+#content_introduce	{ background-image: url('me.jpg'); width: 335px; height: 251px; float: left;}
+#content_history	{ background-image: url('history.jpg'); width: 335px; height: 251px; float: right; }
+#content_offer		{ background-image: url('offer.jpg'); width: 335px; height: 251px; float: left; }
+#sidebar				{ background-color:#EEEEEE;margin-left: 75%; height: 100%; bottom: 0; }
